@@ -1,8 +1,8 @@
 ## Quotinator
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Quotinator/Quotinator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](https://travis-ci.org/Quotinator/Quotinator.svg?branch=master)](https://travis-ci.org/Quotinator/Quotinator) [![Coverage Status](https://img.shields.io/coveralls/Quotinator/Quotinator.svg)](https://coveralls.io/r/Quotinator/Quotinator)
+Quotinator is a site for quoting. I've forked the repo so we can have our own Quotinator for ShiftOS-Next and other chats we chat in.
 
+I am NOT the original dev, the original creators reside on http://www.neweden.co, and http://www.github.com/Quotinator.
 
 ### License
 
